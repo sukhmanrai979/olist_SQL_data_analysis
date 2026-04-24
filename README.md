@@ -35,15 +35,16 @@ This project performs advanced analysis on the Olist Brazilian e-commerce databa
 
 ---
 
-## Key Questions Answered
+## Key Questions, Results & Insights
 
-- Which categories contribute the most to overall sales?
-- How much has each of customers spent with us in total?
-  - Are they a VIP, Regular or new customer?
-- What is the average order value (AOV)?
-- What is the Total Revenue over time monthly (Running total)?
-- What is the Month over Month percentage total revenue change?
-- Which cities have the most valuable customers?
-- What is the average delivery time by city and state?
-- What Percentage of orders that were on time vs late according to delivery estimate?
-- What is the Average shipping time of orders by year?
+| Key Question | Result | Insight | Action |
+|-------------|--------|---------|--------|
+| Which categories contribute the most to overall sales? |  |  |  |
+| How much has each customer spent in total? Are they VIP, Regular or New? |  |  |  |
+| What is the average order value (AOV)? |  |  |  |
+| What is total revenue over time (monthly running total)? |  |  |  |
+| What is the month-over-month % change in total revenue? |  |  |  |
+| Which cities have the most valuable customers? |  |  |  |
+| What is the average delivery time by city and state? |  |  |  |
+| What % of orders were on time vs late (based on estimate)? |  |  |  |
+| What is the average shipping time of orders by year? |  |  |  |
