@@ -16,16 +16,22 @@ This project performs advanced analysis on the Olist Brazilian e-commerce databa
 
 - **Customers Table** → Customer demographics and details  
 - **Products Table** → Product catalog and attributes  
-- **Sales Table** → Transaction-level sales data
+- **Order Items Table** → Transaction-level sales data
+- **Orders Table** → Higher-level order details such as order status and order delivery timestamps
+- **Order Payments Table** → Meta-data regarding payments made
+- **Sellers Table** → Seller details
 
 ---
 
 ## Files Included
 
-- `EDA_Project.sql` → SQL queries used for analysis  
-- `dim_customers.csv` → Customer dimension table  
-- `dim_products.csv` → Product dimension table  
-- `fact_sales.csv` → Sales fact table
+- `Olist_SQL_analysis.sql` → SQL queries used for analysis  
+- `olist_customers_dataset.csv` → Customer dimension table  
+- `olist_order_items_dataset.csv` → Sales Fact table 
+- `olist_order_payments_dataset.csv` → Sales Payment information table
+- `olist_orders_dataset.csv` → Order information table
+- `olist_products_dataset.csv` → Product dimension table
+- `olist_sellers_dataset.csv` → Seller dimension table
 
 ---
 
