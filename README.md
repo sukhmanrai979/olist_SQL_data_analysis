@@ -39,7 +39,7 @@ This project performs advanced analysis on the Olist Brazilian e-commerce databa
 
 | Key Question | Result | Insight | Action |
 |-------------|--------|---------|--------|
-| Which categories contribute the most to overall sales? |  |  |  |
+| Which categories contribute the most to overall sales? |health_beauty - 9.26%, watches_gifts - 8.87%, bed_bath_table - 7.63%, sports_leisure 7.27%  |  |  |
 | How much has each customer spent in total? Are they VIP, Regular or New? |  |  |  |
 | What is the average order value (AOV)? |  |  |  |
 | What is total revenue over time (monthly running total)? |  |  |  |
