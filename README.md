@@ -41,6 +41,12 @@ This project performs advanced analysis on the Olist Brazilian e-commerce databa
 
 ![Delivery Dashboard](Power_BI_Delivery_Page.png)
 
+![Reviews Dashboard](Power_BI_Reviews_Page.png)
+
+![Sellers Dashboard](Power_BI_Sellers_Page.png)
+
+![Payments Dashboard](Power_BI_Payments_Page.png)
+
 ---
 
 ## Key Questions, Results & Insights
