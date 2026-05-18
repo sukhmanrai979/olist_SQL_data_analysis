@@ -1,6 +1,6 @@
 # SQL Advanced Data Analytics Project
 
-This project performs advanced analysis on the Olist Brazilian e-commerce database. Cumulative analysis, Part-to-Whole analysis and Data Segmentation is used gather key insights into customer behaviour and sales revenue
+This project performs advanced analysis on the Olist Brazilian e-commerce database using SQL and Power BI. Cumulative analysis, Part-to-Whole analysis and Data Segmentation is performed using SQL gather key insights into customer behaviour and sales revenue. Power BI is used to create column charts, bar charts, treemaps, pie charts and multi-row cards to draw key insights regarding sales, deliveries, reviews, sellers and payments.
 
 ---
 
